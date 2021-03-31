@@ -7,7 +7,7 @@ import 'rxjs/add/operator/map';
 import 'rxjs/add/operator/switchMap';
 
 @Component({
-  selector: 'github-followers',
+  selector: 'app-github-followers',
   templateUrl: './github-followers.component.html',
   styleUrls: ['./github-followers.component.css']
 })
